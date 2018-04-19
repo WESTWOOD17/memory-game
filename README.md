@@ -1,7 +1,7 @@
 # Memory Game(Concentration)
 Udacity - IPND Final Project
 
-## Components:
+## Dependencies:
 * ```index.html```: App front-end html code
 * `app.js`: App back-end JavaScript code
 * `app.css`: App styling and design CSS code
